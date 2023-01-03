@@ -1,8 +1,6 @@
 <div>
     <p align="center"><a href="https://github.com/engsahaly">
-        <h1 align="center">
-          <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Back End" />
-        </h1>
+        <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Hassan Boufous. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
         </a></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
