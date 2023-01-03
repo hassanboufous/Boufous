@@ -5,7 +5,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=hassanboufous&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" width="500px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanboufous&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200"  width="500px"/>
         <br></strong><hr><br>
     <div>
-        <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
+        <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400px" width="100%">
     </div>
     <br>
     <div align=center>
