@@ -1,7 +1,7 @@
 <div>
     <p align="center"><a href="https://github.com/hassanboufous">
         
-            <img src="/mygithub-header.png" width="100%">
+            <img src="/mygithub-header.png" width=100>
         
         </a></p>
     <div align=center>
