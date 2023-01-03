@@ -16,7 +16,7 @@
         <br>
         <p>
             <strong >
-                Well-versed in software tools including Laravel, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies . 
+                Well-versed in software tools including Laravel, PHP, SQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies . 
             </strong>
         </p>
     </div>
