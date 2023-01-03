@@ -2,8 +2,8 @@
     <p align="center">
      <a href="https://github.com/hassanboufous"><img width="100%" height="200px" src="./mygithub-header.png" /></a></p> <hr>
     <strong >             Back End Web Developer who can touch frond end as well with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success. <br>
-     <div align=center> <img src="https://github-readme-stats.vercel.app/api?username=hassanboufous&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" width="500px" /> </div>
-        <br></strong><hr><br>
+     <div align=center> <br> <img src="https://github-readme-stats.vercel.app/api?username=hassanboufous&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" width="70%" /> </div>
+        </strong><hr><br>
     <div>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400px" width="100%">
     </div>
