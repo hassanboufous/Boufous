@@ -1,6 +1,6 @@
 <div>
      <p>
-         <a href="https://github.com/hassanboufous"><img width="100%" alt="Hello, I'm Mahmoud. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
+         <a href="https://github.com/hassanboufous"><img width="100%"  src="./mygithub-header.png" /></a></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
