@@ -15,7 +15,7 @@
     <div align=left>
         <br>
         <p>
-            <strong>
+            <strong >
                 Well-versed in software tools including Laravel, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies . 
             </strong>
         </p>
@@ -23,7 +23,7 @@
     <div align=center>
         <h1>Contribution Activity</h1>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanboufous&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanboufous&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanboufous&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
