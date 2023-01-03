@@ -2,7 +2,7 @@
     <p align="center"><a href="https://github.com/hassanboufous">
         
             <img src="/mygithub-header.png">
-        <br>
+        
         </a></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
