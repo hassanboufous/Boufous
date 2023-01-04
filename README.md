@@ -33,5 +33,3 @@
 ------
 
 Credit: [Hassan Boufous](https://github.com/engsahaly)
-
-Last edited on: 12/07/2022
