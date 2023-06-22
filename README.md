@@ -1,7 +1,7 @@
 <div>
     <p align="center">
      <a href="https://github.com/hassanboufous"></a></p> 
-    <strong >             Full Stack Web Develope with passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success. <br>
+    <strong >             Full Stack Web Developer with passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success. <br>
      <div align=center> <br>  </div>
         </strong><hr><br>
     <div>
